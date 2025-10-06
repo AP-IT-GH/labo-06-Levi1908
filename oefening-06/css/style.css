@@ -32,6 +32,6 @@ p:last-child{
     z-index: 1;
     position: absolute;
     left: 100px;
-        top: 100px;
+    top: 100px;
     background-color: #0e3047;
 }
