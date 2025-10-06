@@ -1,0 +1,61 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    text-align: center;
+}
+
+section{
+    position:relative;
+    left: 45%;
+    top: 150px;
+
+    background-color: white;
+    height: 300px;
+    width: 450px;
+    border-radius: 10%;
+}
+
+figure{
+    background-color: white;
+    border: 5px;
+    border-radius: 50%;
+    border-color: purple;
+    border-style: solid;
+
+    position:relative;
+    bottom: 90px;
+    left: 135px;
+
+
+    width: 180px;
+    height: 180px;
+}
+
+img{
+    border-radius: 50%;
+
+    position:relative;
+    bottom: -5px;
+
+    height: 160px; 
+    width: 160px;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 2rem;
+    position:relative;
+    bottom: 60px;
+}
+h2{
+    color: gray;
+    font-size: 1.5rem;
+
+    position:relative;
+    bottom: 50px;
+}
+p{
+    font-weight: bold;
+    position:relative;
+    bottom: 20px;
+}
